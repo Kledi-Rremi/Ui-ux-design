@@ -1,88 +1,66 @@
 # PartyOn — Nightlife Discovery & Event Management
 
-![PartyOn portfolio cover](assets/partyon-cover.svg)
+![PartyOn — UI/UX portfolio cover](assets/partyon-cover.svg)
 
 <p align="center">
-  <strong>Discover the night. Run the night.</strong><br/>
-  A cross-platform UI/UX concept for nightlife discovery, event bookings, and venue operations.
+  <strong>Discover the night. Run the night.</strong><br>
+  A cross-platform design concept connecting nightlife discovery with event and venue operations.
 </p>
 
 <p align="center">
-  <img alt="UI/UX" src="https://img.shields.io/badge/Discipline-UI%2FUX%20Design-A45AF4?style=flat-square"/>
-  <img alt="Web & Mobile" src="https://img.shields.io/badge/Platforms-Web%20%26%20Mobile-282139?style=flat-square"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Tool-Figma-282139?style=flat-square"/>
-  <img alt="Design Concept" src="https://img.shields.io/badge/Status-Design%20Concept-282139?style=flat-square"/>
+  <img alt="UI/UX" src="https://img.shields.io/badge/UI%2FUX-Figma-A45AF4?style=flat-square">
+  <img alt="Platforms" src="https://img.shields.io/badge/Platforms-Web%20%26%20Mobile-282139?style=flat-square">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Design%20Concept-282139?style=flat-square">
 </p>
 
-## Overview
+## About PartyOn
 
-**PartyOn** explores a single connected nightlife experience for guests, event staff, club managers, and platform administrators. The design spans web and mobile interfaces covering the journey from discovering a party to reservations, tickets, event check-in, venue operations, and administration.
+**PartyOn** is a web and mobile nightlife platform concept designed around the entire event experience: **discovering parties, viewing events, selecting tickets, completing bookings, and managing venue operations**.
 
-The two Figma source files contain **approximately 105 top-level screen-sized frames** combined, including supporting screens and variants. This is not a claim of 105 tested user journeys.
+Unlike a simple event listing interface, PartyOn explores the needs of multiple user roles—from partygoers to event staff, club managers, and platform administrators.
 
-> **Scope:** This repository showcases a **UI/UX design concept**, not a deployed application. The booking, payment, check-in, and administration interfaces are designs, not functioning services.
+### The challenge
 
-## The problem
+Event discovery, reservations, tickets, guest check-ins, and venue management often happen across separate tools. PartyOn explores how these experiences can be brought together with clear, role-specific interfaces.
 
-Nightlife discovery, bookings, guest check-ins, and venue operations can be fragmented across different websites, messages, and spreadsheets. Guests need clear event information; staff need fast operational workflows; managers need dashboards; administrators need oversight.
-
-**Design challenge:** How can a single cross-platform product provide a relevant experience for each user role?
-
-## Four connected experiences
+## The PartyOn ecosystem
 
 ![PartyOn experience map](assets/partyon-experience-map.svg)
 
-| Experience | Designed functionality |
+| User role | Experience |
 | --- | --- |
-| **Partygoers** | Discover parties and clubs, explore events, reserve VIP tables, buy tickets, and access bookings or QR tickets. |
-| **Hosts / hostesses** | Manage guest lists, reservations, arrivals, and check-ins. |
-| **Club managers** | Manage venues, events, tables, promotions, staff, and analytics views. |
-| **Platform administrators** | Oversee users, club approvals, payment-related screens, disputes, and platform activity. |
+| **Partygoers** | Discover parties and clubs, explore events, choose tickets, reserve VIP tables, and manage bookings. |
+| **Hosts & hostesses** | Access guest lists, track reservations, and handle guest check-in. |
+| **Club managers** | Manage venues, events, promotions, staff, tables, and analytics views. |
+| **Platform administrators** | Oversee venue approvals, users, payments-related dashboards, and disputes. |
 
-## Web & mobile Figma designs
+## Website experience
 
-**Both original editable design files:**
+The desktop designs explore **event discovery, featured promotions, detailed event pages, and ticket checkout**. The interface uses immersive nightlife imagery, dark surfaces, and contrasting calls to action.
 
-- **[PartyOn — Figma design 01](https://www.figma.com/design/ahJciX3q9M5dOLIuTCeWss?node-id=0-1)**
-- **[PartyOn — Figma design 02](https://www.figma.com/design/1Niv7mppE8Y8ylm3UiLPNN?node-id=0-1)**
+## Mobile experience
 
-These two links represent the website and mobile app design. They are intentionally listed in their original order until the link-to-platform mapping is verified. Please ensure they are shared with **Anyone with the link → Can view**.
+The mobile designs explore a connected customer journey:
 
-### Guest journey
-Event discovery, club details, offers, ticket selection, booking and payment steps, VIP reservations, and saved tickets.
+**Home feed → Discover → Event details → Ticket selection → Checkout**
 
-### Venue operations
-Hostess check-ins, reservation management, events, staff, venue profiles, promotions, and manager dashboards.
+The focus is on helping guests find relevant events, understand ticket pricing, and move through booking steps on a smaller screen.
 
-### Administration
-Club and user approvals, platform analytics, and payment- or dispute-related management screens.
+## Original Figma designs
 
-## Design principles
+Both editable projects are available here:
 
-- **Role-based navigation:** consumer discovery differs from task-focused operations.
-- **End-to-end clarity:** event details, bookings, tickets, and check-in should stay consistent.
-- **Cross-platform thinking:** shared product language adapted to web and mobile.
-- **Trust:** fee language, confirmations, and system states should be explicit.
+- [Figma design — file 01](https://www.figma.com/design/ahJciX3q9M5dOLIuTCeWss?node-id=0-1)
+- [Figma design — file 02](https://www.figma.com/design/1Niv7mppE8Y8ylm3UiLPNN?node-id=0-1)
 
-## Next improvements
+## Skills demonstrated
 
-Before considering this a production-ready handoff, the designs would benefit from:
+**UI/UX Design · Figma · Web & Mobile Design · Information Architecture · Event Booking Flows · Role-Based Interfaces · Dashboard Design**
 
-1. Consistent frame naming and grouping by role, platform, and user flow.
-2. Clickable prototypes for booking, check-in, club management, and administration.
-3. Readability and contrast checks, especially for small mobile labels.
-4. Consistent pricing/fee copy and brand terminology across screens.
-5. A documented component library and shared design tokens.
-6. A curated gallery of **real full-resolution Figma frame exports**, not invented mockups. See [screen-export guide](docs/SCREENSHOT_GUIDE.md).
+## Project status
 
-## Tools and focus areas
-
-**Figma · UI/UX Design · Web Design · Mobile Design · Information Architecture · Role-Based Dashboards · Interaction Flows**
-
-**Status:** Design concept / portfolio case study. No live application or implementation code is included.
+This repository is a **UI/UX design case study**, not a live or deployed application. Payment, booking, and administration views are interface designs and should not be mistaken for functioning services.
 
 ---
 
-**Created for portfolio presentation:** [Kledi Rremi — GitHub](https://github.com/Kledi-Rremi) · [LinkedIn](https://www.linkedin.com/in/kledi-rremi-134066430/)
-
-<sub>Portfolio artwork illustrates the project concept; detailed product layouts are linked in the original Figma designs.</sub>
+**Kledi Rremi** · [GitHub](https://github.com/Kledi-Rremi) · [LinkedIn](https://www.linkedin.com/in/kledi-rremi-134066430/)
