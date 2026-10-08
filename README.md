@@ -31,6 +31,10 @@ Event discovery, reservations, tickets, guest check-ins, and venue management of
 
 The showcase below follows the **partygoer experience**: finding a night out, reviewing an event, choosing a ticket, and reaching checkout. Nine screens show how this journey is presented on mobile and desktop.
 
+![Nine selected PartyOn screens — web and mobile](assets/partyon-gallery.webp)
+
+*Actual selected Figma screenshots: four desktop screens and five mobile screens, organized into a single visual showcase.*
+
 ## Mobile experience
 
 **01 Home → 02 Discover → 03 Event details → 04 Ticket selection → 05 Checkout**
